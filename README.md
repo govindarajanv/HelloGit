@@ -1,3 +1,2 @@
-# HelloGit
-Maiden Repository
-This is version 1.0.1
+#Date		Remarks	
+2/8/17		Added a Hello World shell script
