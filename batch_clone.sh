@@ -1,0 +1,12 @@
+git clone https://github.com/govindarajanv/shell.git
+git clone https://github.com/govindarajanv/vagrant.git
+git clone https://github.com/govindarajanv/shared.git
+git clone https://github.com/govindarajanv/java.git
+git clone https://github.com/govindarajanv/python.git
+git clone https://github.com/govindarajanv/devops.git
+git clone https://github.com/govindarajanv/docker.git
+git clone https://github.com/govindarajanv/nagios.git
+git clone https://github.com/govindarajanv/amazon-web-services.git
+git clone https://github.com/govindarajanv/linux.git
+git clone https://github.com/govindarajanv/ruby.git
+git clone https://github.com/govindarajanv/chef.git
