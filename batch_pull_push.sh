@@ -1,0 +1,1 @@
+for i in $(ls -1); do cd $i; git pull origin master; cd ..; done && for i in $(ls -1); do cd $i; git status; cd ..; done && for i in $(ls -1); do cd $i; git add . && git commit -am "Commiting the changes done" && git push origin master; cd ..; done
